@@ -1,0 +1,243 @@
+ID,Sequence,Antigen,References,Assays
+1309147,YLQPRTFLL,Spike glycoprotein,14,46
+33667,KTFPPTEPK,Nucleoprotein,8,17
+37473,LLLDRLNQL,Nucleoprotein,8,13
+1310756,QYIKWPWYI,Spike glycoprotein,8,10
+16156,FIAGLIAIV,Spike glycoprotein,7,13
+60242,SPRWYFYYL,Nucleoprotein,7,17
+1309115,FTSDYYQLY,ORF3a protein,7,13
+21347,GMSRIGMEV,Nucleoprotein,6,9
+1309137,SIIAYTMSL,Spike glycoprotein,6,9
+1310623,LTDEMIAQY,Spike glycoprotein,6,9
+2998,ALWEIQQVV,Replicase polyprotein 1ab,5,8
+16737,FLLNKEMYL,Replicase polyprotein 1ab,5,10
+28050,IPRRNVATL,Replicase polyprotein 1ab,5,9
+54680,RLNEVAKNL,Spike glycoprotein,5,6
+69657,VLNDILSRL,Spike glycoprotein,5,6
+72048,VYIGDPAQL,Replicase polyprotein 1ab,5,7
+74593,YLDAYNMMI,Replicase polyprotein 1ab,5,7
+190494,MEVTPSGTWL,Nucleoprotein,5,11
+1074846,ALSKGVHFV,ORF3a protein,5,7
+1074952,KLPDDFTGCV,Spike glycoprotein,5,7
+1087430,YYQLYSTQL,ORF3a protein,5,6
+1309138,SMWALIISV,Replicase polyprotein 1ab,5,6
+1310291,ASMPTTIAK,Replicase polyprotein 1ab,5,9
+1310872,TTDPSFLGRY,Replicase polyprotein 1ab,5,14
+1310934,VYFLQSINF,ORF3a protein,5,6
+1311144,DTDFVNEFY,Replicase polyprotein 1ab,5,6
+1311180,LLYDANYFL,ORF3a protein,5,12
+1311201,PTDNYITTY,Replicase polyprotein 1ab,5,7
+1311559,FLAHIQWMV,Replicase polyprotein 1ab,5,6
+1312062,YLATALLTL,Replicase polyprotein 1ab,5,6
+7122,CTDDNALAYY,Replicase polyprotein 1ab,4,9
+16743,FLLPSLATV,Replicase polyprotein 1ab,4,5
+16820,FLPRVFSAV,Replicase polyprotein 1ab,4,7
+17385,FPRGQGVPI,Nucleoprotein,4,4
+32240,KLWAQCVQL,Replicase polyprotein 1ab,4,8
+54725,RLQSLQTYV,Spike glycoprotein,4,10
+71663,VVFLHVTYV,Spike glycoprotein,4,6
+1074924,HTTDPSFLGRY,Replicase polyprotein 1ab,4,6
+1087399,RFDNPVLPF,Spike glycoprotein,4,4
+1309121,ILFTRFFYV,Replicase polyprotein 1ab,4,4
+1310703,NYMPYFFTL,Replicase polyprotein 1ab,4,4
+1311591,STFNVPMEK,Replicase polyprotein 1ab,4,6
+1311604,YLYALVYFL,ORF3a protein,4,5
+1313269,NYNYLYRLF,Spike glycoprotein,4,4
+1319519,KIADYNYKL,Spike glycoprotein,4,8
+4936,ATEGALNTPK,Nucleoprotein,3,4
+5149,ATSRTLSYY,Membrane protein,3,5
+16786,FLNRFTTTL,Replicase polyprotein 1ab,3,5
+24313,HLVDFQVTI,ORF6 protein,3,5
+27182,ILLNKHIDA,Nucleoprotein,3,7
+31833,KLFAAETLK,Replicase polyprotein 1ab,3,5
+32183,KLSYGIATV,Replicase polyprotein 1ab,3,6
+33269,KSAGFPFNK,Replicase polyprotein 1ab,3,5
+34851,LALLLLDRL,Nucleoprotein,3,6
+37289,LLFNKVTLA,Spike glycoprotein,3,4
+42260,MPASWVMRI,Replicase polyprotein 1ab,3,5
+44814,NLNESLIDL,Spike glycoprotein,3,3
+56634,RYRIGNYKL,Membrane protein,3,4
+72100,VYMPASWVM,Replicase polyprotein 1ab,3,4
+1074876,EILDITPCSF,Spike glycoprotein,3,5
+1074891,FPQSAPHGVVF,Spike glycoprotein,3,4
+1074915,GTHWFVTQR,Spike glycoprotein,3,4
+1074916,GTITSGWTF,Spike glycoprotein,3,5
+1074981,LPQGFSAL,Spike glycoprotein,3,6
+1075031,RLFRKSNLK,Spike glycoprotein,3,6
+1075075,TLDSKTQSL,Spike glycoprotein,3,7
+1075079,TPINLVRDL,Spike glycoprotein,3,4
+1125057,FGDDTVIEV,Replicase polyprotein 1ab,3,3
+1309136,QRNAPRITF,Nucleoprotein,3,4
+1309141,TLMNVLTLV,Replicase polyprotein 1ab,3,3
+1311156,GTDLEGNFY,Replicase polyprotein 1ab,3,4
+1311170,KCYGVSPTK,Spike glycoprotein,3,4
+1311176,KTIQPRVEK,Replicase polyprotein 1ab,3,5
+1311232,VTNNTFTLK,Replicase polyprotein 1ab,3,6
+1311551,AEWFLAYIL,Replicase polyprotein 1ab,3,4
+1311570,KPRQKRTAT,Nucleoprotein,3,4
+1311587,SAFAMMFVK,Replicase polyprotein 1ab,3,3
+1312627,GVYFASTEK,Spike glycoprotein,3,5
+1312859,KLFDRYFKY,Replicase polyprotein 1ab,3,5
+1313153,MIAQYTSAL,Spike glycoprotein,3,5
+1313745,TISLAGSYK,Replicase polyprotein 1ab,3,5
+1313818,TYACWHHSI,Replicase polyprotein 1ab,3,3
+1314077,YYTSNPTTF,Replicase polyprotein 1ab,3,5
+1326262,VATSRTLSY,Membrane protein,3,3
+2682,ALLADKFPV,Replicase polyprotein 1ab,2,3
+2801,ALNTLVKQL,Spike glycoprotein,2,4
+2855,ALRANSAVK,Replicase polyprotein 1ab,2,3
+3810,APSASAFFGM,Nucleoprotein,2,2
+4307,ASAFFGMSR,Nucleoprotein,2,3
+5150,ATSRTLSYYK,Membrane protein,2,3
+5209,ATVVIGTSK,Replicase polyprotein 1ab,2,4
+5447,AVLQSGFRK,Replicase polyprotein 1ab,2,3
+7121,CTDDNALAY,Replicase polyprotein 1ab,2,3
+7247,CVADYSVLY,Spike glycoprotein,2,5
+16632,FLGRYMSAL,Replicase polyprotein 1ab,2,3
+16779,FLNGSCGSV,Replicase polyprotein 1ab,2,4
+17675,FSAVGNICY,Replicase polyprotein 1ab,2,2
+18133,FVDGVPFVV,Replicase polyprotein 1ab,2,5
+18219,FVLAAVYRI,Membrane protein,2,3
+18395,FYGGWHNML,Replicase polyprotein 1ab,2,2
+22916,GVAMPNLYK,Replicase polyprotein 1ab,2,5
+27078,ILGLPTQTV,Replicase polyprotein 1ab,2,3
+27453,IMASLVLAR,Replicase polyprotein 1ab,2,2
+28464,ISDYDYYRY,Replicase polyprotein 1ab,2,3
+32060,KLNVGDYFV,Replicase polyprotein 1ab,2,4
+32976,KQFDTYNLW,Replicase polyprotein 1ab,2,3
+33668,KTFPPTEPKK,Nucleoprotein,2,4
+37468,LLLDDFVEI,Replicase polyprotein 1ab,2,3
+37515,LLLLDRLNQL,Nucleoprotein,2,4
+37766,LLSAGIFGA,Replicase polyprotein 1ab,2,5
+38043,LMIERFVSL,Replicase polyprotein 1ab,2,2
+38783,LPYPDPSRIL,Replicase polyprotein 1ab,2,2
+42128,MMISAGFSL,Replicase polyprotein 1ab,2,3
+44927,NLWNTFTRL,Replicase polyprotein 1ab,2,3
+50727,QEYADVFHLY,Replicase polyprotein 1ab,2,2
+54507,RLDKVEAEV,Spike glycoprotein,2,2
+54847,RLYYDSMSY,Replicase polyprotein 1ab,2,4
+55132,RPDTRYVLM,Replicase polyprotein 1ab,2,2
+55444,RQLLFVVEV,Replicase polyprotein 1ab,2,5
+57432,SEFSSLPSY,Replicase polyprotein 1ab,2,5
+57592,SEPVLKGVKL,Spike glycoprotein,2,3
+59778,SMWSFNPET,Membrane protein,2,2
+63762,TFTYASALW,Replicase polyprotein 1ab,2,2
+64710,TLACFVLAAV,Membrane protein,2,2
+65176,TMADLVYAL,Replicase polyprotein 1ab,2,2
+66198,TSFGPLVRK,Replicase polyprotein 1ab,2,3
+66952,TVATSRTLSY,Membrane protein,2,2
+69392,VLAWLYAAV,Replicase polyprotein 1ab,2,3
+71635,VVDKYFDCY,Replicase polyprotein 1ab,2,3
+71767,VVNARLRAK,Replicase polyprotein 1ab,2,3
+71918,VVYRGTTTYK,Replicase polyprotein 1ab,2,3
+73668,YEGNSPFHPL,ORF7a protein,2,3
+74209,YIFFASFYY,Replicase polyprotein 1ab,2,5
+74850,YLNTLTLAV,Replicase polyprotein 1ab,2,3
+923297,FAPSASAFF,Nucleoprotein,2,2
+1074862,AVILRGHLR,Membrane protein,2,3
+1074884,FCNDPFLGVYY,Spike glycoprotein,2,4
+1074900,FVFKNIDGY,Spike glycoprotein,2,4
+1074931,IPIQASLPF,ORF3a protein,2,3
+1074941,ITEEVGHTDLMAAY,Replicase polyprotein 1ab,2,4
+1074947,KAYNVTQAF,Nucleoprotein,2,4
+1074949,KEIDRLNEV,Spike glycoprotein,2,6
+1074978,LPAADLDDF,Nucleoprotein,2,3
+1074980,LPPAYTNSF,Spike glycoprotein,2,5
+1075005,NQKLIANQF,Spike glycoprotein,2,4
+1075010,NTNSSPDDQIGYY,Nucleoprotein,2,3
+1075025,REGVFVSNGTHW,Spike glycoprotein,2,4
+1075044,SELVIGAVIL,Membrane protein,2,5
+1075065,STQDLFLPFF,Spike glycoprotein,2,5
+1075071,TEKSNIIRGW,Spike glycoprotein,2,4
+1075085,TVYDPLQPELDSFK,Spike glycoprotein,2,3
+1075120,YEQYIKWPWYI,Spike glycoprotein,2,5
+1075121,YFPLQSYGF,Spike glycoprotein,2,3
+1075128,YVYSRVKNL,Envelope small membrane protein,2,3
+1087344,FADDLNQLTGY,Replicase polyprotein 1ab,2,3
+1087356,GTITVEELK,Membrane protein,2,2
+1087368,KMKDLSPRW,Nucleoprotein,2,3
+1087377,LPNNTASWF,Nucleoprotein,2,3
+1087414,TSNQVAVLY,Spike glycoprotein,2,6
+1125059,FLFLTWICL,Membrane protein,2,2
+1125063,GLTVLPPLL,Spike glycoprotein,2,2
+1125145,WLMWLIINL,Replicase polyprotein 1ab,2,2
+1309124,KLLEQWNLV,Membrane protein,2,2
+1310340,DYKHWPQIAQF,Nucleoprotein,2,4
+1310371,EPVLKGVKL,Spike glycoprotein,2,2
+1310429,FYVYSRVKNL,Envelope small membrane protein,2,2
+1310677,NPANNAAIVL,Nucleoprotein,2,2
+1310684,NRFLYIIKL,Membrane protein,2,5
+1310768,RIAGHHLGR,Membrane protein,2,2
+1310928,VTYVPAQEK,Spike glycoprotein,2,4
+1311554,AQFAPSASAF,Nucleoprotein,2,2
+1311563,GEAANFCAL,Replicase polyprotein 1ab,2,4
+1311564,GETLPTEVL,Replicase polyprotein 1ab,2,3
+1311565,GEVITFDNL,Replicase polyprotein 1ab,2,4
+1311572,KWPWYIWLGF,Spike glycoprotein,2,3
+1311585,QEILGTVSW,Replicase polyprotein 1ab,2,2
+1311590,SPRRARSVA,Spike glycoprotein,2,2
+1311592,TEVVGDIIL,Replicase polyprotein 1ab,2,4
+1311601,YEQYIKWPW,Spike glycoprotein,2,2
+1311989,FLARGIVFM,Replicase polyprotein 1ab,2,3
+1312003,ILTSLLVLV,Replicase polyprotein 1ab,2,2
+1312004,IVAGGIVAI,Replicase polyprotein 1ab,2,2
+1312008,KLMPVCVET,Replicase polyprotein 1ab,2,2
+1312010,KLNIKLLGV,Replicase polyprotein 1ab,2,2
+1312030,RIMTWLDMV,Replicase polyprotein 1ab,2,2
+1312039,SLINTLNDL,Replicase polyprotein 1ab,2,2
+1312040,SLIYSTAAL,Replicase polyprotein 1ab,2,2
+1312041,SLPGVFCGV,Replicase polyprotein 1ab,2,2
+1312048,TVYEKLKPV,Replicase polyprotein 1ab,2,2
+1312055,VLSEARQHL,Replicase polyprotein 1ab,2,2
+1312058,VMVELVAEL,Replicase polyprotein 1ab,2,2
+1312061,YLASGGQPI,Replicase polyprotein 1ab,2,3
+1312064,YLNSTNVTI,Replicase polyprotein 1ab,2,2
+1312108,AEIRASANL,Spike glycoprotein,2,4
+1312109,AELAKNVSL,Replicase polyprotein 1ab,2,2
+1312119,AGFSLWVYK,Replicase polyprotein 1ab,2,2
+1312250,AYILFTRFF,Replicase polyprotein 1ab,2,2
+1312630,GVYYHKNNK,Spike glycoprotein,2,2
+1312770,IQITISSFK,Replicase polyprotein 1ab,2,3
+1312789,IYLYLTFYL,Replicase polyprotein 1ab,2,2
+1312861,KLKDCVMYA,Replicase polyprotein 1ab,2,2
+1312899,KRVDWTIEY,Replicase polyprotein 1ab,2,3
+1312900,KSAAEASKK,Nucleoprotein,2,2
+1313129,LYLYALVYF,ORF3a protein,2,2
+1313188,MYASAVVLL,Replicase polyprotein 1ab,2,2
+1313213,NLIDSYFVV,Replicase polyprotein 1ab,2,2
+1313244,NSASFSTFK,Spike glycoprotein,2,2
+1313530,SASKIITLK,ORF3a protein,2,3
+1313717,SYATHSDKF,Replicase polyprotein 1ab,2,2
+1313808,TTIKPVTYK,Replicase polyprotein 1ab,2,4
+1313935,VVTTKIALK,Replicase polyprotein 1ab,2,3
+1313999,YIATNGPLK,Replicase polyprotein 1ab,2,2
+1314075,YYKKDNSYF,Replicase polyprotein 1ab,2,2
+1314857,ASFDNFKFV,Replicase polyprotein 1ab,2,2
+1315668,DYKHYTPSF,Replicase polyprotein 1ab,2,2
+1316317,FAYANRNRF,Membrane protein,2,2
+1316353,FERDISTEIY,Spike glycoprotein,2,2
+1316854,FPREGVFV,Spike glycoprotein,2,2
+1318059,HLMSFPQSA,Spike glycoprotein,2,3
+1318829,IPFAMQMAY,Spike glycoprotein,2,3
+1318987,ITDVFYKENSY,Replicase polyprotein 1ab,2,2
+1319902,KPNELSRVL,Replicase polyprotein 1ab,2,2
+1321049,LPFNDGVYF,Spike glycoprotein,2,4
+1323406,QLTPTWRVY,Spike glycoprotein,2,2
+1323461,QPTESIVRF,Spike glycoprotein,2,3
+1323485,QSASKIITL,ORF3a protein,2,3
+1323646,QVVDMSMTY,Replicase polyprotein 1ab,2,2
+1324090,RVAGDSGFAAY,Membrane protein,2,5
+1324117,RVYSTGSNVF,Spike glycoprotein,2,3
+1324899,SPRRARSV,Spike glycoprotein,2,2
+1325390,TDNYITTY,Replicase polyprotein 1ab,2,2
+1325414,TEIDPKLDNYY,Replicase polyprotein 1ab,2,2
+1325795,TPCSFGGVSV,Spike glycoprotein,2,2
+1325944,TTDPSFLGRYM,Replicase polyprotein 1ab,2,3
+1326261,VASQSIIAY,Spike glycoprotein,2,4
+1326322,VFAQVKQIY,Spike glycoprotein,2,2
+1327124,VSSPDAVTAY,Replicase polyprotein 1ab,2,2
+1327990,YFTSDYYQLY,ORF3a protein,2,2
+1328804,YTNSFTRGVY,Spike glycoprotein,2,3
+1328829,YTTTIKPVTY,Replicase polyprotein 1ab,2,2
+1330469,GLMWLSYFI,Membrane protein,2,5
+1331598,EIKESVQTF,Replicase polyprotein 1ab,2,2
